@@ -1,12 +1,11 @@
-### Hi there, I'm Evan - aka [Coding With Evan][website] 
-<a href="https://app.daily.dev/evanemran"><img align='right' src="https://github.com/evanemran/evanemran/blob/master/devcard.svg" width="220" alt="Emran Khandaker Evan's Dev Card"/></a>
+### Hi there, I'm Mortuza - aka [Mortuza Blogs][website] 
 ## I'm a Programmer and App Developer!
 - 🎓 Masters in Computer Science & Engineering.
 - 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
-![](https://komarev.com/ghpvc/?username=evanemran&color=brightgreen&style=plastic)
+![](https://komarev.com/ghpvc/?username=shahariar007&color=brightgreen&style=plastic)
 
 ### Connect with me:
 
@@ -45,29 +44,29 @@
 
 ### GitHub Stats
 <p align="left">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanemran&show_icons=true&theme=github" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=evanemran&theme=github" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahariar007&show_icons=true&theme=github" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariar007&theme=github" />
 </p>
 
 ### Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanemran&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariar007&theme=github"/>
 </p>
 
 ### Top Languages
 <p align="center">
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evanemran&theme=github" />
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evanemran&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar007&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar007&theme=github" />
 </p>
 
 ### Top Commits
 <p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evanemran&theme=github&utcOffset=8" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariar007&theme=github&utcOffset=8" />
 </p>
 
 <!-- <img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" /> -->
 
-[website]: https://www.youtube.com/channel/UCghuahHSahEqxMcvg7bzGaA
+[website]: https://blogs.mortuza.dev
 [twitter]: https://twitter.com/evanemran
 [youtube]: https://youtube.com/codingwithevan
 [instagram]: https://instagram.com/evanemran

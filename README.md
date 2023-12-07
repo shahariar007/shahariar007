@@ -1,7 +1,7 @@
 ### Hi there, I'm Mortuza - aka [Mortuza Blogs][website] 
 ## I'm a Programmer and App Developer!
 - 🎓 Masters in Computer Science & Engineering.
-- 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
+- 🔭 Software Engineer and also make programming tutorials on [Mortuza Blogs][website]!
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 

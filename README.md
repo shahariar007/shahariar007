@@ -10,7 +10,7 @@ I am an **Analyst Programmer with 10+ years of experience** designing and delive
 
 My core focus is building scalable, secure software with **Flutter, Android, ASP.NET Core, REST APIs, and enterprise integrations**. I enjoy collaborative, documentation-driven teams and am open to remote opportunities.
 
-**Interactive dashboard:** [View live GitHub portfolio](https://shahariar007.github.io/shahariar007/dashboard/)
+**Interactive dashboard:** [View live GitHub portfolio](https://shahariar007.github.io/dashboard/)
 
 ## What I bring
 

@@ -107,7 +107,7 @@ My core focus is building scalable, secure software with **Flutter, Android, ASP
 ## Education & certifications
 
 - **MBA, Organization Strategy & Leadership** — University of Dhaka, 2023-2025
-- **B.Sc. in Computer Science & Engineering** — University of Asia Pacific, 2011-2015
+- **B.Sc. in Computer Science & Engineering** — University of Asia Pacific, 2010-2014
 - **Microsoft Certified: Power BI Data Analyst Associate** — 2025
 - **Software Architecture Practitioners** — IBA, University of Dhaka, 2025
 - **Advanced Certificate for Management Professionals** — TopSE, 2024

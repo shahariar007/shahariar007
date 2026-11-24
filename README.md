@@ -39,7 +39,7 @@ My core focus is building scalable, secure software with **Flutter, Android, ASP
 
 | Public repositories | Original work | Forks | Followers | Following | GitHub since |
 | ---: | ---: | ---: | ---: | ---: | --- |
-| 56 | 43 | 13 | 11 | 31 | 2015-05-18 |
+| 56 | 43 | 13 | 10 | 31 | 2015-05-18 |
 
 ### Primary languages by repository
 
@@ -65,7 +65,7 @@ My core focus is building scalable, secure software with **Flutter, Android, ASP
 | [qbittorrent_local_client](https://github.com/shahariar007/qbittorrent_local_client) | Code | 2026-07-01 | qBittorrent local client provides a simple and secure way to control and monitor your qBittorrent server running on your PC, NAS or Home server. |
 | [qrCodeGenerator](https://github.com/shahariar007/qrCodeGenerator) | Python | 2026-06-09 | No public description provided. |
 
-*Data updated automatically from the GitHub API: 23 Nov 2026, 10:53 UTC. Private repositories and private enterprise work are not included.*
+*Data updated automatically from the GitHub API: 24 Nov 2026, 12:36 UTC. Private repositories and private enterprise work are not included.*
 <!-- GITHUB-DATA:END -->
 
 | Project | What it demonstrates |
